@@ -24,15 +24,11 @@ This website showcases my skills and projects as a front-end developer.
 * **HTML:** For structuring the content of the web pages.
 * **CSS:** For styling the visual appearance of the website.
 <img width="1418" alt="Screenshot 2025-01-23 at 11 46 03 PM" src="https://github.com/user-attachments/assets/9a28b4b8-af82-4cb6-9faa-2d5b69173c80" />
+
+
 <img width="1406" alt="Screenshot 2025-01-23 at 11 46 35 PM" src="https://github.com/user-attachments/assets/c4e715a9-2150-4058-876f-52fa61c3bcce" />
 
 
-
-Here’s the combined version:
-
-markdown
-Copy
-Edit
 ## Steps to Create a React Project
 
 1. **Initialize a New React App**:  
