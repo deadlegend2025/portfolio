@@ -28,3 +28,31 @@ This website showcases my skills and projects as a front-end developer.
 
 
 
+Here’s the combined version:
+
+markdown
+Copy
+Edit
+## Steps to Create a React Project
+
+1. **Initialize a New React App**:  
+   Use the **Create React App** tool to set up a new React project:
+   ```bash
+   npx create-react-app my-app
+Navigate to the Project Directory:
+
+bash
+Copy
+Edit
+cd my-app
+Start the Development Server:
+Run the following command to start the React development server:
+
+bash
+Copy
+Edit
+npm start
+This will launch the app in your default browser at http://localhost:3000.
+
+
+
